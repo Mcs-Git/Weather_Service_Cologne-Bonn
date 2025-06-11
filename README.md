@@ -1,4 +1,3 @@
-﻿# Weather_Service_Cologne-Bonn
 # Dokumentation – Wetterdienst Köln/Bonn (2020–2024)
 
 ## **Überblick**
